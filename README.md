@@ -4,7 +4,7 @@
     <p align="center">
         XXL-JOB, a distributed logical management platform.
         <br>
-        <a href="http://www.xuxueli.com/xxl-glue/"><strong>-- Home Page --</strong></a>
+        <a href="https://www.xuxueli.com/xxl-glue/"><strong>-- Home Page --</strong></a>
         <br>
         <br>
         <a href="https://travis-ci.org/xuxueli/xxl-glue">
@@ -19,7 +19,7 @@
          <a href="http://www.gnu.org/licenses/gpl-3.0.html">
              <img src="https://img.shields.io/badge/license-GPLv3-blue.svg" >
          </a>
-          <a href="http://www.xuxueli.com/page/donate.html">
+          <a href="https://www.xuxueli.com/page/donate.html">
                 <img src="https://img.shields.io/badge/%24-donate-ff69b4.svg?style=flat-square" >
           </a>
     </p>    
@@ -34,7 +34,7 @@ XXL-GLUE 是一个分布式 "可执行逻辑单元" 管理平台, 学习简单�
 
 
 ## Documentation
-- [中文文档](http://www.xuxueli.com/xxl-glue/)
+- [中文文档](https://www.xuxueli.com/xxl-glue/)
 
 
 ## Features
@@ -49,7 +49,7 @@ XXL-GLUE 是一个分布式 "可执行逻辑单元" 管理平台, 学习简单�
 
 ## Communication
 
-- [社区交流](http://www.xuxueli.com/page/community.html)
+- [社区交流](https://www.xuxueli.com/page/community.html)
 
 ## 接入登记
 更多接入的公司，欢迎在 [登记地址](https://github.com/xuxueli/xxl-glue/issues/1 ) 登记，登记仅仅为了产品推广。
@@ -71,6 +71,6 @@ This product is open source and free, and will continue to provide free communit
 
 
 ## Donate
-No matter how much the amount is enough to express your thought, thank you very much ：）     [To donate](http://www.xuxueli.com/page/donate.html )
+No matter how much the amount is enough to express your thought, thank you very much ：）     [To donate](https://www.xuxueli.com/page/donate.html )
 
-无论金额多少都足够表达您这份心意，非常感谢 ：）      [前往捐赠](http://www.xuxueli.com/page/donate.html )
+无论金额多少都足够表达您这份心意，非常感谢 ：）      [前往捐赠](https://www.xuxueli.com/page/donate.html )

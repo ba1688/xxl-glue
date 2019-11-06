@@ -28,7 +28,7 @@ XXL-GLUE在功能上完全可以替代前者，只需要在可执行代码块中
 ### 1.3 下载
 
 #### 文档地址
-- [中文文档](http://www.xuxueli.com/xxl-glue/)
+- [中文文档](https://www.xuxueli.com/xxl-glue/)
 
 #### 源码仓库地址
 
@@ -40,7 +40,7 @@ XXL-GLUE在功能上完全可以替代前者，只需要在可执行代码块中
 
 ##### 技术交流群 (仅作技术交流)
 
-- [社区交流](http://www.xuxueli.com/page/community.html)
+- [社区交流](https://www.xuxueli.com/page/community.html)
 
 ### 1.4 环境
 - JDK：1.7+
@@ -535,4 +535,4 @@ GLUE底层基于Groovy实现，Groovy之前使用时曾经出现过频繁Full GC
 
 ---
 ### 捐赠
-无论金额多少都足够表达您这份心意，非常感谢 ：）      [前往捐赠](http://www.xuxueli.com/page/donate.html )
+无论金额多少都足够表达您这份心意，非常感谢 ：）      [前往捐赠](https://www.xuxueli.com/page/donate.html )

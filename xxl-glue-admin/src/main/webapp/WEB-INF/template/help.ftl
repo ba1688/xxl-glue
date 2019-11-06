@@ -30,7 +30,7 @@
 					<br><br>
 					<a target="_blank" href="https://my.oschina.net/xuxueli/blog/732499">oschina地址</a>
                     <br><br>
-                    <a target="_blank" href="http://www.xuxueli.com/page/community.html">社区交流</a>
+                    <a target="_blank" href="https://www.xuxueli.com/page/community.html">社区交流</a>
                     <br><br>
 
 				</p>
